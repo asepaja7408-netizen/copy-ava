@@ -4,10 +4,10 @@ return {
     CLONE_BATCH_SIZE = 5,
     CLONE_DELAY = 6,
     REMOTE_PATH = "Remotes.Command.CommandEvent",
-    ALLOWED_PLACE_IDS = {2446060691},
+    ALLOWED_PLACE_IDS = {133943904733338, 7041939546},
     DEVELOPER_USERNAME = "asep",
     DEVELOPER_USER_ID = 2446060691,
-    KEY_TIMER_INTERVAL = 1, -- detik
+    KEY_TIMER_INTERVAL = 60, -- detik
 
     BUY_KEY_URL = "https://wa.me/6285788699048?text=beli",
 
