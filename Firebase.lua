@@ -5,7 +5,7 @@
 local HttpService = game:GetService("HttpService")
 local Firebase = {}
 
-local DB_URL = "https://console.firebase.google.com/u/5/project/my-roblox-db-efa38/database/my-roblox-db-efa38-default-rtdb/data/~2F?hl=id-ID"
+local DB_URL = "https://my-roblox-db-efa38-default-rtdb.asia-southeast1.firebasedatabase.app"
 local API_KEY = "AIzaSyAD1byj2Er28UiL4GZfGqTIFKcnjg1LJW4"
 
 -- ==================== HTTP CORE ====================
