@@ -5,8 +5,8 @@
 local HttpService = game:GetService("HttpService")
 local Firebase = {}
 
-local DB_URL = "https://phone-id-viewer-default-rtdb.asia-southeast1.firebasedatabase.app"
-local API_KEY = "AIzaSyCGYiMvdt8v4DP96dUny8xFDRD6w3T1c80"
+local DB_URL = "https://console.firebase.google.com/u/5/project/my-roblox-db-efa38/database/my-roblox-db-efa38-default-rtdb/data/~2F?hl=id-ID"
+local API_KEY = "AIzaSyAD1byj2Er28UiL4GZfGqTIFKcnjg1LJW4"
 
 -- ==================== HTTP CORE ====================
 local function doRequest(method, url, body)
